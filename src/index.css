@@ -1,6 +1,7 @@
 body {
     font: 14px "Century Gothic", Futura, sans-serif;
     margin: 20px;
+    background-color : blueviolet;
   }
   
   ol, ul {
@@ -49,3 +50,7 @@ body {
     margin-left: 20px;
   }
   
+  .game-board {
+    margin : auto;
+
+  }
